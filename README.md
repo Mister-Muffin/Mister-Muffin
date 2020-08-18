@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mister Muffin</h1>
+# Hi 👋, I'm Mister Muffin
 - 🌱 I’m currently learning **Flutter**
 <p align="center">
-###My skills
+## My skills
 <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
