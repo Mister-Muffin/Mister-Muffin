@@ -17,7 +17,7 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></p>
 
-[!Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mister-muffin&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mister-muffin)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
