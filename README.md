@@ -21,4 +21,4 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mister-muffin&show_icons=true" alt="mister-muffin" /></p>
+[Mister-Muffin](https://github-readme-stats.vercel.app/api?username=mister-muffin&show_icons=true)
