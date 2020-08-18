@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mister Muffin</h1>
 - 🌱 I’m currently learning **Flutter**
-## My skills:
+
+### My skills:
 
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -21,4 +22,4 @@
 
 <br>
 
-[Mister-Muffin](https://github-readme-stats.vercel.app/api?username=mister-muffin&show_icons=true)
+![Mister-Muffin](https://github-readme-stats.vercel.app/api?username=mister-muffin&show_icons=true)
