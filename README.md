@@ -20,4 +20,4 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mister-muffin&show_icons=true" alt="mister-muffin" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mister-muffin&show_icons=true" alt="mister-muffin" /></p>
