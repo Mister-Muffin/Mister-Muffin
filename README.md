@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mister Muffin</h1>
+
 - 🌱 I’m currently learning **Flutter**
 
 ### My skills:
@@ -17,9 +18,6 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></p>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mister-muffin)](https://github.com/anuraghazra/github-readme-stats)
-
 <br>
 
-![Mister-Muffin](https://github-readme-stats.vercel.app/api?username=mister-muffin&show_icons=true)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mister-muffin)](https://github.com/anuraghazra/github-readme-stats)
