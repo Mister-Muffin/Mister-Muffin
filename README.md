@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mister Muffin</h1>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **stuff**
 
 ### My skills:
 
