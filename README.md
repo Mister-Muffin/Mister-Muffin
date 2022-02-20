@@ -4,7 +4,7 @@
 
 ### My skills:
 
-<p align="center">
+
 <img src="https://developer.android.com/images/brand/Android_Robot.svg" alt="android" width="40" height="40"/>
 <img src="dart.svg" alt="dart" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" alt="electron" width="40" height="40"/>
@@ -19,7 +19,6 @@
 <img src="jetpack compose icon_RGB.png" alt="compose" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vue" height="40" width="40"/>
 <img src="https://static.cdnlogo.com/logos/c/27/c.svg" alt="c#" height="40" width="40"/>
-<img src="https://godotengine.org/themes/godotengine/assets/press/icon_color.png" alt="gd" height="40" width="40"/>
-<br><br><br>
+<img src="https://godotengine.org/themes/godotengine/assets/press/icon_color.png" alt="gd" height="40" width="40"/><p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=mister-muffin"/></a><br>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mister-muffin&layout=compact"/></a>
