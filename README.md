@@ -5,15 +5,15 @@
 ### My skills:
 
 <p align="center">
-<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+<img src="https://developer.android.com/images/brand/Android_Robot.svg" alt="android" width="40" height="40"/>
+<img src="dart.svg" alt="dart" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" alt="electron" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" alt="kotlin" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
 <br>
 
