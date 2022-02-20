@@ -11,10 +11,15 @@
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="html5" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" alt="kotlin" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
+<img src="jetpack compose icon_RGB.png" alt="compose" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vue" height="40" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c#" height="40" width="40"/>
+<img src="https://godotengine.org/themes/godotengine/assets/press/icon_color.png" alt="gd" height="40" width="40"/>
 <br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mister-muffin)](https://github.com/anuraghazra/github-readme-stats)
