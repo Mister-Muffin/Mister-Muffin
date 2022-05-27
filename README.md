@@ -4,6 +4,8 @@
 
 ### My skills:
 
+ <p align="center">
+
 
 <img src="https://developer.android.com/images/brand/Android_Robot.svg" alt="android" width="40" height="40"/>
 <img src="dart.svg" alt="dart" width="40" height="40"/>
