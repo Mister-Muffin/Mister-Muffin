@@ -15,7 +15,7 @@
 <img src="jetpack compose icon_RGB.png" alt="compose" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vue" height="40" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" alt="electron" width="40" height="40"/>
-<img src="https://godotengine.org/themes/godotengine/assets/press/icon_color.png" alt="gd" height="40" width="40"/>
+<img src="https://godotengine.org/assets/press/icon_color.png" alt="gd" height="40" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
