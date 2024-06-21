@@ -26,7 +26,7 @@
 <p align="center">
 
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nix-snowflake.svg" alt="linux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/ce919b818047ac481b8f1bfb9bee377e2b2889e2/logo/nix-snowflake.svg" alt="linux" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="linux" width="40" height="40"/>
 <img src="https://developer.android.com/images/brand/Android_Robot.svg" alt="linux" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="linux" width="40" height="40"/>
